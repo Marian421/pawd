@@ -1,0 +1,12 @@
+C:\Users\Student\Desktop\Stefan G\WindowsApp1\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
+C:\Users\Student\Desktop\Stefan G\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\Student\Desktop\Stefan G\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Student\Desktop\Stefan G\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\Student\Desktop\Stefan G\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Stefan G\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\Student\Desktop\Stefan G\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\Student\Desktop\Stefan G\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\Student\Desktop\Stefan G\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\Student\Desktop\Stefan G\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\Student\Desktop\Stefan G\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\Student\Desktop\Stefan G\WindowsApp1\obj\Debug\WindowsApp1.pdb

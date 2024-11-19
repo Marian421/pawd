@@ -1,0 +1,10 @@
+C:\Users\Student\Desktop\Stefan G\Laborator3\bin\Debug\Laborator3.exe.config
+C:\Users\Student\Desktop\Stefan G\Laborator3\bin\Debug\Laborator3.exe
+C:\Users\Student\Desktop\Stefan G\Laborator3\bin\Debug\Laborator3.pdb
+C:\Users\Student\Desktop\Stefan G\Laborator3\obj\Debug\Laborator3.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\Stefan G\Laborator3\obj\Debug\Laborator3.Form1.resources
+C:\Users\Student\Desktop\Stefan G\Laborator3\obj\Debug\Laborator3.Properties.Resources.resources
+C:\Users\Student\Desktop\Stefan G\Laborator3\obj\Debug\Laborator3.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\Stefan G\Laborator3\obj\Debug\Laborator3.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Stefan G\Laborator3\obj\Debug\Laborator3.exe
+C:\Users\Student\Desktop\Stefan G\Laborator3\obj\Debug\Laborator3.pdb
